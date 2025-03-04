@@ -1,6 +1,6 @@
 # Nem invertáló műveleti erősitő
 ---  
-- Mérést végezte: Tóth Sándor    
+- Mérést végezte: Gulyás Mátyás    
 - Mérés helye: V3 labor
 - Mérés ideje: 2025.02.25.
 - Csoport: 12.D

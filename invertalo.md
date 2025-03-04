@@ -1,6 +1,6 @@
 # Invertáló kapcsolás
 
-- A mérést végezte: Tóth Sándor      
+- A mérést végezte: Gulyás Mátyás      
 - A mérés helye: V3 labor
 - A mérés időpontja: 2025.02.18
 
